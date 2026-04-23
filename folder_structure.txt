@@ -1,0 +1,55 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 2478-27AA
+E:.
+¦   .env
+¦   .gitignore
+¦   Bootstrap_Setup.bat
+¦   Bootstrap_Setup_Output_11-Apr-2026_06.42.43_AM.log
+¦   folder_structure.txt
+¦   Launcher.vbs
+¦   local_orders.json
+¦   requirements.txt
+¦   Run_Bot.bat
+¦   
++---.vscode
+¦       settings.json
+¦       
++---backend
+¦   ¦   main.py
+¦   ¦   ws_client.py
+¦   ¦   __init__.py
+¦   ¦   
+¦   +---__pycache__
+¦           angel_api.cpython-312.pyc
+¦           angel_api.cpython-314.pyc
+¦           main.cpython-312.pyc
+¦           main.cpython-314.pyc
+¦           strategy.cpython-312.pyc
+¦           ws_client.cpython-312.pyc
+¦           __init__.cpython-312.pyc
+¦           
++---frontend
+¦       index.html
+¦       
++---logs
+    +---2026-04-02
+    ¦       app.log
+    ¦       
+    +---2026-04-06
+    ¦       app.log
+    ¦       
+    +---2026-04-07
+    ¦       app.log
+    ¦       
+    +---2026-04-08
+    ¦       app.log
+    ¦       
+    +---2026-04-09
+    ¦       app.log
+    ¦       
+    +---2026-04-10
+    ¦       app.log
+    ¦       
+    +---2026-04-11
+            app.log
+            

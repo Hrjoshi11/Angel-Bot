@@ -1,0 +1,14 @@
+# Private Environment Variables
+.env
+
+# Database / Local Storage
+local_orders.json
+paper_balance.json
+
+# Logs
+logs/
+setup_error.log
+
+# Python Cache
+__pycache__/
+*.pyc
