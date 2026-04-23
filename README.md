@@ -31,6 +31,9 @@ A fully automated, high-frequency algorithmic trading terminal built for the **A
 
 ## 📜 Version History & Changelog
 
+* **v13.1.0** - Smart AI Strategy upgraded to detect active losses and dynamically average down quantities. Enhanced NSE Option Chain Stealth Handshake. Fixed Open Price calculation fallback.
+
+* **v13.0.0** - Fixed FastAPI Deprecation warning via Lifespan. Rebuilt Chart Timeline slicing & Native Zooming. Physical Log file writing to Logs/bot_logs.txt
 * **v12.2.0** - Removed all mock OI data, built physical text Logs directory, rebuilt Chart X-axis zooming/slicing, fixed FII/DII stealth scrapers, and fixed Market Clock JS rendering.
 * **v12.1.0** - Added extensive comments, fixed Market Status Colors/Glow, expanded countdown format (Days Hours), added Holiday Fallback, and fixed Active Mode UI bug.
 * **v12.0.0** - Fixed Smart AI lot sizing glitch (strict 10 lot cap), added full 21-Row Live Option Chain, upgraded FastAPI to async lifespan to remove terminal deprecation warnings. Set Order History to auto-load all data on boot. Added Factory Reset endpoint.
